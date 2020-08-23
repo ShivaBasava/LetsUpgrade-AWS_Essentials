@@ -1,7 +1,7 @@
-## Assignment/Project Day4
+# A README file for Assignment/Project Day4
 
-# Following are the steps-
-# Host a Webpage on AWS EC2 Instance(Linux AMI)
+## Following are the steps-
+## Host a Webpage on AWS EC2 Instance(Linux AMI)
 
 - PDF named 'Day-4 Assignment': contains the Use Case/Question for Assignment/Project which is provided by the instructor at LetsUpgrade.
 - This Day4 folder of my repository contains the implemented Solution/Answer for the above Use Case/Question in the form of Screenshots.
