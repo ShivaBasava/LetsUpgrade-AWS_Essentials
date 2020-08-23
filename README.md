@@ -15,3 +15,7 @@
   - Launched AWS EC2 Instance Windows 2019 Base from AWS Management Console (Public IP & Other details are clearly visible in screenshot)
   - Successful RDP Login to AWS EC2 Instance Windows 2019 Base (Logg'd to Powershell ISE)
   - Post installation of web-server(IIS) on RDP Windows 2019 Base Instance. Testing its deployment on the browser with Public IP & Its Successful!!
+
+## Day 4
+- Under this folder, we can find the solution/answer for the Project use-cases which is described in PDF named 'Day-4 Assignment'.
+- This folder also contains a README Markdown file named as 'Day4_Readme'.
