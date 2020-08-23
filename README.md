@@ -1,5 +1,7 @@
 # LetsUpgrade-AWS_Essentials
-- This repository contails the solution for the two Project use-case(PDF file: 'Project Day 3'), which is provided by the instructor at LetsUpgrade.
+- This repository contails the solution for:
+    - The two Project use-cases(PDF file: 'Project Day 3'), which is provided by the instructor at LetsUpgrade.
+    - Final Project/Assignment folder(Day 4) and it contains a Project use-case(PDF file: 'Day-4 Assignment'), which is provided by the instructor at LetsUpgrade.
 
 ## Day 3
 - Under this folder, we can find the two sub-folder containing solution/answer for the two Project use-cases.
